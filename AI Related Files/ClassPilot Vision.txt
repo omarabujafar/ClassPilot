@@ -1,0 +1,182 @@
+CLASSPILOT — VISION & NARRATIVE (TXT)
+Audience: investors, potential collaborators, AI partners (e.g., Claude). Purpose: communicate what ClassPilot is and the long‑term vision without prescribing implementation details.
+
+====================================================
+
+1. ONE‑LINE DESCRIPTION
+   ====================================================
+   ClassPilot is a Student Operating System that unifies classes, deadlines, and goals into a single, proactive companion that answers: “What matters now, why, and how do I finish it on time?”
+
+====================================================
+2) ELEVATOR PITCH
+=================
+
+Students live across multiple learning platforms and calendars, constantly switching context just to understand what’s due, how to prepare, and how each task affects their goals. ClassPilot centralizes this into one intelligent hub that prioritizes tasks, clarifies impact on grades, and guides the study journey from first reminder to final submission. It’s the difference between a static checklist and an active copilot.
+
+====================================================
+3) PROBLEM & WHY IT PERSISTS
+============================
+
+• Fragmentation: Assignments, announcements, rubrics, and submission portals exist in different tools that rarely agree.
+• Passive interfaces: Most dashboards list tasks but don’t explain urgency, impact, or the next best step.
+• Cognitive overload: Students must translate scattered information into actionable plans while juggling work, family, or multiple courses.
+• Unequal outcomes: Time management and forecasting skills are taught implicitly, leaving many learners behind despite effort.
+
+====================================================
+4) OUR PROMISE TO LEARNERS
+==========================
+
+ClassPilot reduces uncertainty and increases momentum. We promise:
+
+1. Clarity — one place to see school life clearly.
+2. Priority — know what truly matters today.
+3. Confidence — understand how each action moves you toward your goal.
+4. Momentum — gentle nudges that help you start earlier and finish calmer.
+
+====================================================
+5) WHAT CLASSPILOT IS (AT A GLANCE)
+===================================
+
+• Unified view of classes, tasks, and key dates from common learning systems.
+• Smart prioritization: highlights urgent/important work, conflicts, and dependencies.
+• Grade & goal awareness: explains how a task affects course standing and personal targets.
+• Guided path to completion: breaks big items into small steps, suggests study sessions, and celebrates progress.
+• Calm communication: reminders and summaries that reduce stress rather than increase it.
+
+====================================================
+6) WHO WE SERVE (PERSONAS)
+==========================
+
+• The Striver: ambitious GPA targets; appreciates goal‑aligned guidance.
+• The Juggler: limited time; needs ruthless prioritization and frictionless planning.
+• The Starter: new to college/HS systems; needs clarity and gentle coaching.
+• The Returner: comes back to education while working; needs predictability and low cognitive load.
+
+====================================================
+7) WHY NOW
+==========
+
+• Learning platforms are ubiquitous but siloed; students increasingly combine them in the same term.
+• Cultural shift toward assistive AI tools; learners expect intelligent, context‑aware support.
+• Institutions seek measurable outcomes—retention, earlier submissions, fewer missed assignments.
+
+====================================================
+8) PRODUCT PILLARS (NON‑TECHNICAL)
+==================================
+
+1. Unification — one hub that stays in sync with the learner’s academic world.
+2. Guidance — turns information into prioritized, doable steps.
+3. Foresight — makes grade impact and scheduling implications obvious.
+4. Momentum — creates small wins and a sense of steady progress.
+5. Trust — privacy‑first, student‑first, transparent and respectful.
+
+====================================================
+9) CORE EXPERIENCES (HOW IT FEELS)
+==================================
+
+• Today View: “Here’s what to do, why it matters, and how long it’ll take.”
+• Plan Ahead: “These three tasks collide next week; here’s a better schedule.”
+• What‑If: “If you score X here, you’re still on track for your target.”
+• Submission Path: “Here’s the hand‑off or portal you’ll use when you’re ready.”
+• Reflection: streaks/badges lightly acknowledge habits; weekly digest reinforces wins.
+
+====================================================
+10) ETHOS & SAFETY
+==================
+
+• Student control: the student chooses what to connect and can disconnect anytime.
+• Minimalism with purpose: fewer notifications, more meaningful ones.
+• Academic integrity: guidance focuses on understanding and planning, not shortcuts.
+• Accessibility: designed for clarity, keyboard/screen‑reader friendly, inclusive language.
+
+====================================================
+11) MEASURABLE OUTCOMES WE CARE ABOUT
+=====================================
+
+• Earlier submissions: % of work turned in ≥24h before due time.
+• Fewer misses: reduction in unsubmitted or last‑minute panic.
+• Steady engagement: weekly active use during term without notification fatigue.
+• Goal attainment: % of learners meeting self‑set GPA or completion goals.
+• Wellbeing signals: self‑reported stress before exams trending down over time.
+
+====================================================
+12) DIFFERENTIATION
+===================
+
+• Beyond lists: explains priority and impact in the learner’s own context.
+• Cross‑platform by design: respects each institution’s tools while offering one student‑first surface.
+• Gentle accountability: motivates without the noise or guilt common in productivity apps.
+
+====================================================
+13) BRAND & VOICE
+=================
+
+• Tone: calm, capable, encouraging—never frantic or patronizing.
+• Character: a reliable upper‑class mentor who knows the system and has your back.
+• Visual feeling: quiet focus, clarity, and progress.
+• Tagline options:
+– “Know what matters now.”
+– “Clarity → Momentum.”
+– “Less juggle, more progress.”
+
+====================================================
+14) EXAMPLE USER STORIES (NARRATIVE)
+====================================
+
+• “Sunday Reset”: A learner connects their classes. ClassPilot shows a simple plan for the week, flags a hidden overlap, and proposes two short study blocks with reminders the learner actually wants.
+• “Midterm Week”: The app highlights weighty tasks, clarifies tradeoffs, and reassures the learner they’re still on pace after one tough quiz.
+• “The Comeback”: A returning learner sees a realistic plan that fits around a shift schedule and celebrates small streaks that rebuild confidence.
+
+====================================================
+15) VISION (12–36 MONTHS)
+=========================
+
+• From dashboard to companion: conversational planning that remembers your patterns and goals.
+• From assignments to learning: study aids that surface the right material at the right time.
+• From individual to cohort: group planning and mentor dashboards that support healthy habits.
+• From reactive to proactive institutions: aggregate, privacy‑preserving insights help schools support students earlier.
+
+====================================================
+16) BOUNDARIES (WHAT WE WON’T BE)
+=================================
+
+• Not a replacement LMS.
+• Not a shortcut to bypass learning.
+• Not a notification machine that trades attention for usage metrics.
+
+====================================================
+17) VALUE FOR PARTNERS
+======================
+
+• Students: less stress, clearer priorities, better outcomes.
+• Educators: fewer surprise misses, smoother course pacing, earlier questions from students.
+• Schools: improved retention and completion signals, without ripping and replacing existing systems.
+• Tutors/mentors: shared view of priorities to coordinate support.
+
+====================================================
+18) SIMPLE POSITIONING
+======================
+
+For students who feel scattered across school tools, ClassPilot is the calm hub that unifies tasks and turns them into a plan—so they finish earlier and feel in control.
+
+====================================================
+19) TALKING POINTS & FAQ (FOR CONVERSATIONS)
+============================================
+
+Q: How is it different from a to‑do app?
+A: It understands academic context—weights, deadlines, and the learner’s goals—so the list becomes a guided plan.
+
+Q: Will it work if my school uses different tools?
+A: Yes. The experience is designed to unify common platforms and provide a consistent student‑first surface.
+
+Q: Is this for high school, college, or beyond?
+A: It’s designed for learners wherever courses, deadlines, and grades intersect; early focus on college and advanced HS.
+
+Q: What’s the long‑term dream?
+A: A trustworthy companion that turns education’s puzzle into a clear, motivating journey.
+
+====================================================
+20) CLOSING NARRATIVE
+=====================
+
+Education is full of effort but short on clarity. ClassPilot turns scattered information into a steady rhythm—one place to see what matters, one plan that adapts, and one companion that helps you finish with confidence. That’s the future we’re building.
